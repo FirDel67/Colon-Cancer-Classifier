@@ -1,0 +1,17 @@
+/* Add any custom styles here */
+input.border-red-500 {
+    border-color: #ef4444;
+}
+
+.table-container table {
+    width: 100%;
+}
+
+.table-container th, .table-container td {
+    text-align: left;
+    vertical-align: middle;
+}
+
+.table-container th {
+    z-index: 10; /* Ensure headers stay above table content */
+}

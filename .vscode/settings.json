@@ -1,0 +1,19 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "yHxliaNLJpM_ZCOMP1N_I",
+            "name": "Colo Cancer Classifier",
+            "driver": "postgres",
+            "connectionType": "host",
+            "host": "dpg-d053tsbe5dus738srchg-a.oregon-postgres.render.com",
+            "port": 5432,
+            "ssl": false,
+            "username": "cc_classifier_user",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "cc_classifier",
+            "readOnly": false,
+            "connectionTimeout": 60
+        }
+    ]
+}
